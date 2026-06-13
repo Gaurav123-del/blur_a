@@ -46,3 +46,4 @@ Categories · Privacy shield · Stats · Join (waitlist) · FAQ · Final CTA · 
 - Brand blue `#1A3FE8`. Fully responsive, respects `prefers-reduced-motion`.
 # blur_a
 # blur_a
+# blur_a
